@@ -1,0 +1,44 @@
+[
+  {
+    "id": "startup_crisis_v2",
+    "title": "The Tech Startup Crisis",
+    "description": "You are the CEO of a newly funded tech startup. Your lead engineer just quit right before a major product launch, and a competitor has announced a similar feature. Can you navigate the crisis?",
+    "question": "Your lead engineer just quit two weeks before launch. What do you do?",
+    "choiceA": {
+      "text": "Delay the launch and hire a new lead engineer.",
+      "scoreImpact": -10
+    },
+    "choiceB": {
+      "text": "Push the current team to finish the launch on time without the lead.",
+      "scoreImpact": 5
+    }
+  },
+  {
+    "id": "data_breach_v1",
+    "title": "The Data Breach",
+    "description": "You are the CTO of a mid-size e-commerce company. Your security team has just discovered a potential data breach affecting customer payment information.",
+    "question": "A data breach may have exposed customer payment data. What is your first action?",
+    "choiceA": {
+      "text": "Immediately notify all affected customers and go public with the breach.",
+      "scoreImpact": 20
+    },
+    "choiceB": {
+      "text": "Quietly investigate and patch the vulnerability before making any announcement.",
+      "scoreImpact": -15
+    }
+  },
+  {
+    "id": "team_conflict_v1",
+    "title": "The Team Conflict",
+    "description": "You are a project manager. Two of your senior developers are in a serious conflict that is affecting the whole team's productivity and morale.",
+    "question": "Two senior developers are clashing and the team is suffering. How do you handle it?",
+    "choiceA": {
+      "text": "Hold a mediated meeting with both developers to address the conflict directly.",
+      "scoreImpact": 15
+    },
+    "choiceB": {
+      "text": "Separate them by moving one developer to a different project to avoid confrontation.",
+      "scoreImpact": -5
+    }
+  }
+]
